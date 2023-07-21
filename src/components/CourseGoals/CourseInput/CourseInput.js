@@ -32,6 +32,6 @@ const CourseInput = props => {
       <Button type="submit">Add Goal</Button>
     </form>
   );
-};
+}; 
 
 export default CourseInput;
